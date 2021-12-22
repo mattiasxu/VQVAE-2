@@ -1,4 +1,4 @@
-# VQVAE-2
+# VQVAE-2 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 VQVAE-2 https://arxiv.org/pdf/1906.00446.pdf
 
