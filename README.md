@@ -13,7 +13,8 @@ python train_vqvae.py
 ```
 The VQVAE encoder compresses 3x32x32 images to 8x8 + 4x4 latent codes, which is a reduction of ~97%, using 8-bit color representations and codebook size of 512. The decoder tries to reconstruct the original image from latent codes.
 
-Example reconstructions from CIFAR10 test set. Original on top, reconstructions on bottom. Default parameters were used.
+Example reconstructions from CIFAR10 test set. Original on top, reconstructions on bottom.
+
 <img src="reconstruction_examples.png" width="768" height="128" />
 
 ## Step 2: Train autoregressive model on latent codes
