@@ -2,6 +2,8 @@
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 
+PyTorch Lightning wrapper for PyTorch used.
+
 VQVAE-2 https://arxiv.org/pdf/1906.00446.pdf
 
 Autoregressive PixelSNAIL https://arxiv.org/pdf/1712.09763.pdf
