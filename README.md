@@ -1,4 +1,4 @@
 # VQVAE-2
 
 
-![image](reconstruction_examples.png)
+<img src="reconstruction_loss.png" width="768" height="128" />
