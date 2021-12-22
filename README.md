@@ -1,6 +1,7 @@
 # VQVAE-2
 
 VQVAE-2 https://arxiv.org/pdf/1906.00446.pdf
+
 Autoregressive PixelSNAIL https://arxiv.org/pdf/1712.09763.pdf
 
 Implementations based on https://github.com/rosinality/vq-vae-2-pytorch and https://github.com/EugenHotaj/pytorch-generative
