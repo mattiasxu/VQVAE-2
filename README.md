@@ -25,7 +25,7 @@ Compared to the originals, the reconstruciton is more blurry.
 
 The top code is lower dimensioned and takes care of more global features, like the general color theme, while the bottom code takes care of details. Below you can see in following order: reconstruction from top code, reconstruction from bottom code, reconstruction and original.
 
-<img src="bottom_top_example.png" width="256" height="64" />
+<img src="bottom_top_example.png" width="256" height="128" />
 
 ## Step 2: Train autoregressive model on latent codes
 First make dataset with latent codes encoded by the trained VQVAE-2.
