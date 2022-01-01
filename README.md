@@ -1,4 +1,4 @@
-# VQVAE-2
+# PyTorch implementation of VQVAE-2
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 
