@@ -21,7 +21,7 @@ Example reconstructions using default parameters from CIFAR10 test set. Original
 
 <img src="reconstruction_examples.png" width="768" height="128" />
 
-<img src="bottom_top_example" width="256" height="64" />
+<img src="bottom_top_example.jpg" width="256" height="64" />
 ## Step 2: Train autoregressive model on latent codes
 First make dataset with latent codes encoded by the trained VQVAE-2.
 ```
